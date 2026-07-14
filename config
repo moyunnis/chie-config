@@ -1,0 +1,13 @@
+tabsize = 2
+tabs = false
+autoindent = true
+numbers = true
+syntax = true
+cursorline = false
+scrolloff = 0
+mouse = true
+backup = false
+trim_trailing = false
+final_newline = false
+ignorecase = true
+smartcase = true
